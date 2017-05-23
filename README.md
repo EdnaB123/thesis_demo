@@ -3,7 +3,7 @@
 Welcome to my thesis repository!
 
 Contents:
-* [x] Introduction
+* [x] Introduction (https://github.com/EdnaB123/thesis_demo/blob/master/Introduction.%20md)
 * [ ] Model
 * [ ] Results
 * [ ] Conclusion
